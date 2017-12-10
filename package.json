@@ -1,0 +1,22 @@
+{
+  "name": "node-kickstart",
+  "version": "1.0.0",
+  "description": "Building new website starter for beginner, start building website on node environment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nikunjmandani/node-kickstart.git"
+  },
+  "author": "Nikunj Mandani",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Nikunjmandani/node-kickstart/issues"
+  },
+  "homepage": "https://github.com/Nikunjmandani/node-kickstart#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
